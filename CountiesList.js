@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
       backgroundColor: 'lightGray',
       alignItems: 'center',
       justifyContent: 'center',
-      marginTop: "20%"
+      marginTop: "25%"
     },
     header:{
         fontSize:25,
